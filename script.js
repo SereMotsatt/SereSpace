@@ -1,11 +1,31 @@
 const input = document.getElementById('imtext');
 const extb = document.getElementById("ext");
 const del_all = document.getElementById("delete_all");
+const fondoUser = document.getElementById('fondoUser')
 
+fondoUser.addEventListener('change', function(e) {
+    const file = e.target.files[0];  // Primer archivo seleccionado
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = function(event) {
+        guardarDatos("userImage", { data1: event.target.result });
+        document.body.style.backgroundImage = `url(${event.target.result})`;
+    }
+    reader.readAsDataURL(file);
+});
+
+(async () => {
+    const recurs = await chrome.storage.local.get(['userImage']);
+    const imgDataSave = recurs.userImage?.data1 ?? "https://images.unsplash.com/photo-1526572728358-228f6b8ca29b?q=80&w=1223&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
+    if (!imgDataSave) return;
+    document.body.style.backgroundImage = `url(${imgDataSave})`;
+})();
 
 async function guardarDatos(key, value) {
-  await chrome.storage.local.set({ [key]: value });
-  console.log("Datos guardados con éxito");
+    await chrome.storage.local.get(null, async (result) => {
+        result[key] = value;
+        await chrome.storage.local.set(result);
+    });
 }
 
 
