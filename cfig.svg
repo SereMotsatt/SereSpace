@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="191.675"
+   height="191.675"
+   viewBox="0 0 50.71401 50.71401"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="cfig.svg"
+   inkscape:export-filename="cfig.png"
+   inkscape:export-xdpi="58.77"
+   inkscape:export-ydpi="58.77"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.1371982"
+     inkscape:cx="59.447949"
+     inkscape:cy="95.148595"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="50.714008"
+       height="50.714008"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-65.362251,-75.673102)">
+    <path
+       sodipodi:type="star"
+       style="fill:#3c3c3c;fill-opacity:1;stroke:#3c3c3c;stroke-width:6.35;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path2"
+       inkscape:flatsided="false"
+       sodipodi:sides="6"
+       sodipodi:cx="90.71933"
+       sodipodi:cy="99.736061"
+       sodipodi:r1="24.705214"
+       sodipodi:r2="6.3802085"
+       sodipodi:arg1="-0.044705427"
+       sodipodi:arg2="-0.1935199"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 115.39986,98.631972 96.980441,98.509056 104.01576,120.55798 94.912503,104.54484 79.335234,121.66207 88.651392,105.77185 66.0388,100.84015 84.458218,100.96307 77.422895,78.91414 86.526156,94.927282 102.10343,77.81005 92.787268,93.700277 Z"
+       inkscape:export-filename="cfig.png"
+       inkscape:export-xdpi="64.10833"
+       inkscape:export-ydpi="64.10833"
+       transform="matrix(0.96137484,0,0,1.0283657,2.1970436,-2.1373851)" />
+  </g>
+</svg>

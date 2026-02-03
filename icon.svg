@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="109.98921mm"
+   height="109.98922mm"
+   viewBox="0 0 109.98921 109.98922"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.50835204"
+     inkscape:cx="353.10176"
+     inkscape:cy="366.87174"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="-9.9525194e-38"
+       y="0"
+       width="109.98921"
+       height="109.98922"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#bac7ff;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#bac7ff;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient13"
+       gradientUnits="userSpaceOnUse"
+       x1="93.616821"
+       y1="141.32343"
+       x2="93.342293"
+       y2="64.037186" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient14"
+       gradientUnits="userSpaceOnUse"
+       x1="102.40427"
+       y1="153.05511"
+       x2="102.58829"
+       y2="64.037186" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter14"
+       x="-0.13317704"
+       y="-0.13317704"
+       width="1.2663541"
+       height="1.2663541">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.4967061"
+         id="feGaussianBlur14" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.31766,-51.365992)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:6.35;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill;filter:url(#filter14)"
+       id="rect14"
+       width="86.855019"
+       height="86.855019"
+       x="58.884758"
+       y="62.933086"
+       inkscape:export-filename="icon128.png"
+       inkscape:export-xdpi="29.559263"
+       inkscape:export-ydpi="29.559263"
+       ry="11.224907" />
+    <rect
+       style="fill:url(#linearGradient13);stroke:url(#linearGradient14);stroke-width:6.35;stroke-linejoin:round;paint-order:stroke markers fill"
+       id="rect1"
+       width="86.855019"
+       height="86.855019"
+       x="58.884758"
+       y="62.933086"
+       inkscape:export-filename="icon512.png"
+       inkscape:export-xdpi="139.52896"
+       inkscape:export-ydpi="139.52896"
+       ry="11.224907" />
+    <rect
+       style="fill:#e8e8e8;fill-opacity:0.607843;stroke:none;stroke-width:6.35;stroke-linejoin:round;stroke-opacity:0.607803;paint-order:markers fill stroke"
+       id="rect2"
+       width="49.965374"
+       height="16.655125"
+       x="76.769714"
+       y="111.12091" />
+    <circle
+       style="fill:#ff3b3b;fill-opacity:0.616016;stroke:none;stroke-width:4.318;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="path7"
+       cx="98.473816"
+       cy="107.30453"
+       r="3.128253" />
+    <circle
+       style="fill:#3b96ff;fill-opacity:0.615686;stroke:none;stroke-width:4.318;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="circle7"
+       cx="106.04184"
+       cy="107.30453"
+       r="3.128253" />
+  </g>
+</svg>
