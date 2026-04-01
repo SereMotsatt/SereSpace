@@ -1,7 +1,7 @@
 const input = document.getElementById('imtext');
 const extb = document.getElementById("ext");
 const del_all = document.getElementById("delete_all");
-const fondoUser = document.getElementById('fondoUser')
+const fondoUser = document.getElementById('fondoUser');
 
 fondoUser.addEventListener('change', function(e) {
     const file = e.target.files[0];  // Primer archivo seleccionado
@@ -51,8 +51,14 @@ callhref("https://www.perplexity.ai/search","p_ia");
 
 del_all.addEventListener('click', () => {
     input.value = "";
+    del_all.hidden = true;
 });
 
+input.addEventListener("keyup", () => {
+    const valor = input.value;
+    if (valor) del_all.hidden = false;
+    if (!valor) del_all.hidden = true;
+});
 
 input.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
